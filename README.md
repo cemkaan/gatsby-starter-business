@@ -25,7 +25,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Getting Started
 Create your own project with Gatsby CLI:
 ```shell
-gatsby new yourbusinessname https://github.com/v4iv/gatsby-starter-business.git 
+gatsby new yourbusinessname https://github.com/cemkaan/gatsby-starter-business.git 
 ```
 
 ## Available Scripts
