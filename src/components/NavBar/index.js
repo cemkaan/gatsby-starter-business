@@ -1,5 +1,6 @@
 import React from 'react'
 import {Link, graphql, StaticQuery} from 'gatsby'
+import config from '../../../data/config'
 
 
 const NavBar = ({toggleNavbar, isActive}) => (
@@ -15,7 +16,7 @@ const NavBar = ({toggleNavbar, isActive}) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong>İş Sitesi</strong>
+            <strong> {config.siteTitle}</strong>
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
