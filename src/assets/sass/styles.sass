@@ -1,11 +1,16 @@
 @import "~bulma"
-  
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto&subset=latin-ext')
+
 $markaRengi: #69D2E7
 $primary: #00d1b2
 $primary-invert: #ffffff
+$family-sans-serif: 'Open Sans', sans-serif;
 
 nav
   border-bottom: lightgray solid 0.1vmin
+.navbar
+  font-family: 'Roboto', sans-serif
+  background-color: $markaRengi
 
 .content .taglist
   list-style: none
@@ -24,3 +29,7 @@ nav
 
 .margin-top-0
   margin-top: 0 !important
+
+section.hero.is-light
+  background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/hexellence.png")
+  background-repeat: repeat
