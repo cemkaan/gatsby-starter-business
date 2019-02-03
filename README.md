@@ -17,6 +17,8 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 * Elastic-Lunr Search (NEW)
 * Pagination (NEW)
 * Easy Configuration using `config.js` file
+* http://backgroundhost.com/ 
+* styles.sass içinde sirketRenk değişkeni
 
 ## Prerequisite
 * Node
