@@ -10,7 +10,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 * Complete Business Website Suite - Home Page, About Page, Pricing Page, Contact Page and Blog
 * Netlify CMS for Content Management
 * SEO Friendly (Sitemap, Schemas, Meta Tags, GTM etc)
-* Bulma and Sass Support for styling
+* Bulma and Sass Support for styling https://bulma.io/documentation/
 * Progressive Web App & Offline Support
 * Tags and RSS Feed for Blog
 * Disqus and Share Support
@@ -19,6 +19,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 * Easy Configuration using `config.js` file
 * http://backgroundhost.com/ 
 * styles.sass içinde sirketRenk değişkeni
+
 
 ## Prerequisite
 * Node
